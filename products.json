@@ -1,0 +1,39 @@
+[
+    {
+        "name": "iphone",
+        "price": "199",
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone11",
+        "price": "1199",
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "watch",
+        "price": "99",
+        "company": "apple"
+    },
+    {
+        "name": "watch11",
+        "price": "199",
+        "company": "apple"
+    },
+    {
+        "name": "s20",
+        "price": "499",
+        "company": "samsung"
+    },
+    {
+        "name": "dell inspiron",
+        "price": "999",
+        "company": "dell"
+    },
+    {
+        "name": "vivo15",
+        "price": "299",
+        "company": "vivo"
+    }
+]
